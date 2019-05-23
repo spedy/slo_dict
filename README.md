@@ -1,8 +1,7 @@
-# slo_dict
-Slovenian Open Office Dictionary (ispell)
+# Slovenian Open Office Dictionary (ispell)
 
 
-# Adding to Postgres db
+## Adding to Postgres db
 
 Copy .affix, .dict and .stop to $sharedir/tsearch_data
 
